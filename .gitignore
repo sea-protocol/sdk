@@ -1,0 +1,12 @@
+node_modules/
+yarn-error.log
+/build/
+/lib/
+/dist/
+/docs/
+.idea/*
+
+.DS_Store
+coverage
+*.log
+/examples/
